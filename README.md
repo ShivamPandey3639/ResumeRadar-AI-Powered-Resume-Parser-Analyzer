@@ -2,7 +2,7 @@
 
 A modern web application that extracts structured data from resumes, provides insights, and helps users improve their job applications.
 
-![Resume Parser Screenshot](https://via.placeholder.com/800x400?text=Resume+Parser+Screenshot)
+
 
 ## Features
 
